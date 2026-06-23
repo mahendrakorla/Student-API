@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 MYSQL_user = "root"
-MYSQL_pass = "Mahi%404656"
+MYSQL_pass = ""
 MYSQL_host = "localhost"
 MYSQL_port = "3306"
 MYSQL_database = "student"
